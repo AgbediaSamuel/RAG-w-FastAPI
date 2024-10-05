@@ -1,0 +1,8 @@
+.env
+comparison.py
+curl_test_commands.txt
+testfile.txt
+testfile.pdf
+tempCodeRunnerFile.py
+/.venv/
+/__pycache__/
