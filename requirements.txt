@@ -9,3 +9,7 @@ PyPDF2
 pytesseract
 pillow
 pymupdf
+sqlalchemy
+psycopg2-binary
+pgvector
+sqlalchemy.orm
